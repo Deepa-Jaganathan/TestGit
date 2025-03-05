@@ -4,3 +4,6 @@ This is 3nd line from feature
 This is 4th line from Master
 This is 4th line from Master
 This is 5th line from Master
+
+
+text message commit -1 for cherry-pick
