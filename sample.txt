@@ -11,3 +11,5 @@ text message commit -1 for cherry-pick
 text message commit -2 for cherry-pick-2
 
 cherry-pick A
+
+cherry-pick B
