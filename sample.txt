@@ -1,3 +1,4 @@
 This First line from Master
 This is 2nd line from feature
 This is 3nd line from feature
+This is 4th line from Master
