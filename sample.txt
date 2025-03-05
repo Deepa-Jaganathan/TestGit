@@ -7,3 +7,5 @@ This is 5th line from Master
 
 
 text message commit -1 for cherry-pick
+
+text message commit -2 for cherry-pick-2
